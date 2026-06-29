@@ -89,7 +89,7 @@ src/
 
 ## License
 
-MIT License - see LICENSE file for details.
+Distributed under the MIT License. See [`LICENSE`](LICENSE) for more information.
 
 ## Author
 
